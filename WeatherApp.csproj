@@ -139,6 +139,9 @@
     <None Include="Images\snowflakeG.png" />
     <None Include="Images\sunny-dayG.png" />
     <None Include="Images\windG.png" />
+    <Content Include="Images\Screenshot 2024-04-11 103455.png" />
+    <Content Include="Images\Screenshot 2024-04-11 103559.png" />
+    <Content Include="Images\Screenshot 2024-04-11 103620.png" />
     <Content Include="Properties\cloudy.png" />
     <Content Include="Images\rainy.png" />
     <Content Include="Images\snowflake.png" />
